@@ -1,8 +1,8 @@
 <div class="container-xxl py-5">
     <div class="container">
         <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
-            <h6 class="section-title bg-white text-center text-primary px-3">Instructors</h6>
-            <h1 class="mb-5">Expert Instructors</h1>
+            <h6 class="section-title bg-white text-center text-primary px-3">Administrator</h6>
+            <h1 class="mb-5">Renowned Administrator</h1>
         </div>
         <div class="row g-4">
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -18,8 +18,8 @@
                         </div>
                     </div>
                     <div class="text-center p-4">
-                        <h5 class="mb-0">Aditya Sahni</h5>
-                        <small>Assistant</small>
+                        <h5 class="mb-0">Bijendra Prasad Yadav</h5>
+                        <small>Hon'ble Minister</small>    
                     </div>
                 </div>
             </div>
@@ -36,8 +36,8 @@
                         </div>
                     </div>
                     <div class="text-center p-4">
-                        <h5 class="mb-0">Sonali Kumari</h5>
-                        <small>Director</small>
+                        <h5 class="mb-0">Sanjeev Hans</h5>
+                        <small> IAS, Chairman-cum-MD (BSPHCL)</small>
                     </div>
                 </div>
             </div>
@@ -54,8 +54,8 @@
                         </div>
                     </div>
                     <div class="text-center p-4">
-                        <h5 class="mb-0">Vijyendra pathak</h5>
-                        <small>Manager</small>
+                        <h5 class="mb-0">Dr. Aditya Prakash</h5>
+                        <small>IAS, Managing Director (BSPTCL)</small>
                     </div>
                 </div>
             </div>
@@ -72,8 +72,8 @@
                         </div>
                     </div>
                     <div class="text-center p-4">
-                        <h5 class="mb-0">Ruhani shri</h5>
-                        <small>Trainer</small>
+                        <h5 class="mb-0">Mahendra Kumar</h5>
+                        <small>IAS, Managing Director (BSPGCL)</small>
                     </div>
                 </div>
             </div>

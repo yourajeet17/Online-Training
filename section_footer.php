@@ -3,8 +3,8 @@
             <div class="row g-5">
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-white mb-3">Quick Link</h4>
-                    <a class="btn btn-link" href="">About Us</a>
-                    <a class="btn btn-link" href="">Contact Us</a>
+                    <a class="btn btn-link" href="about.php">About Us</a>
+                    <a class="btn btn-link" href="contact.php">Contact Us</a>
                     <a class="btn btn-link" href="">Privacy Policy</a>
                     <a class="btn btn-link" href="">Terms & Condition</a>
                     <a class="btn btn-link" href="">FAQs & Help</a>
@@ -48,8 +48,10 @@
                     <h4 class="text-white mb-3">Newsletter</h4>
                     <p>To get time to time update about our services and offer subscribe our Newsletter</p>
                     <div class="position-relative mx-auto" style="max-width: 400px;">
-                        <input class="form-control border-0 w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email">
-                        <button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">Subscribe</button>
+                        <form class="custom-form" action="subscribe_form.php" method="post" role="form">
+                            <input class="form-control border-0 w-100 py-3 ps-4 pe-5" type="text" name="user_email" id="user_email" placeholder="Your email">
+                            <button type="submit" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">Subscribe</button>
+                        </form>
                     </div>
                 </div>
             </div>
